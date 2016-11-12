@@ -1,6 +1,4 @@
 <?php
-
-die("wawawa");
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
