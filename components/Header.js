@@ -9,9 +9,9 @@ class Header extends React.Component{
 	    				<div className="col-lg-12">
 	    					<img className="img-responsive" src="img/profile.png" alt="" />
 	    					<div className="intro-text">
-	    						<span className="name">Start Bootstrap</span>
+	    						<span className="name">Mario Sandoz</span>
 	    						<hr className="star-light" />
-	    						<span className="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+	    						<span className="skills">Mobile - API - Web Developer</span>
 	    					</div>
 	    				</div>
 	    			</div>

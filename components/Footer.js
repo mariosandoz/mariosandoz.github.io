@@ -10,32 +10,33 @@ class Footer extends React.Component{
 		    				<div className="row">
 		    					<div className="footer-col col-md-4">
 		    						<h3>Location</h3>
-		    						<p>3481 Melrose Place
-		    							<br/>Beverly Hills, CA 90210</p>
+		    						<p>25A Makom Street
+		    							<br/>Jatiasih, Bekasi 17421
+	    							</p>
 		    						</div>
 		    						<div className="footer-col col-md-4">
 		    							<h3>Around the Web</h3>
 		    							<ul className="list-inline">
 		    								<li>
-		    									<a href="#" className="btn-social btn-outline"><i className="fa fa-fw fa-facebook"></i></a>
+		    									<a href="https://www.facebook.com/mariosandoz" className="btn-social btn-outline"><i className="fa fa-fw fa-facebook"></i></a>
 		    								</li>
 		    								<li>
-		    									<a href="#" className="btn-social btn-outline"><i className="fa fa-fw fa-google-plus"></i></a>
+		    									<a href="https://plus.google.com/+MarioSandoz" className="btn-social btn-outline"><i className="fa fa-fw fa-google-plus"></i></a>
 		    								</li>
 		    								<li>
-		    									<a href="#" className="btn-social btn-outline"><i className="fa fa-fw fa-twitter"></i></a>
+		    									<a href="https://twitter.com/mariosandoz" className="btn-social btn-outline"><i className="fa fa-fw fa-twitter"></i></a>
 		    								</li>
 		    								<li>
-		    									<a href="#" className="btn-social btn-outline"><i className="fa fa-fw fa-linkedin"></i></a>
-		    								</li>
-		    								<li>
-		    									<a href="#" className="btn-social btn-outline"><i className="fa fa-fw fa-dribbble"></i></a>
+		    									<a href="https://id.linkedin.com/in/maryo-sandoz-nababan-0008863a" className="btn-social btn-outline"><i className="fa fa-fw fa-linkedin"></i></a>
 		    								</li>
 		    							</ul>
 		    						</div>
 		    						<div className="footer-col col-md-4">
-		    							<h3>About Freelancer</h3>
-		    							<p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+		    							<h3>About Me</h3>
+		    							<p>
+		    								web developer, javascript enthusiast. 
+		    								Need something ? Contact me
+		    							</p>
 		    						</div>
 		    					</div>
 		    				</div>
@@ -44,7 +45,7 @@ class Footer extends React.Component{
 	    				<div className="container">
 	    					<div className="row">
 	    						<div className="col-lg-12">
-	    							Copyright &copy; Your Website 2016
+	    							Copyright &copy; mariosandoz.github.io 2016
 	    						</div>
 	    					</div>
 	    				</div>
