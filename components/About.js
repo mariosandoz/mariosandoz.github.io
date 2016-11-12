@@ -24,16 +24,14 @@ class About extends React.Component{
 	    				</div>
 	    				<div className="col-lg-4">
 	    					<p>
-	    						I can help you to create or develop:
-	    						<ul>
-	    							<li>Company Profile</li>
-	    							<li>Blog</li>
-	    							<li>Mobile Applicatin</li>
-	    							<li>E-Commerce</li>
-	    							<li>Business Application</li>
-	    							<li>Maintenance Your Current Web</li>
-	    						</ul>
-    						</p>
+    							What can I do for you? <br />
+    							Company Profile <br/>
+    							Blog <br/>
+    							Mobile Application <br/>
+    							E-Commerce <br/>
+    							Business Application <br/>
+    							Improving Your current website <br/>
+							</p>
 	    				</div>
 	    				<div className="col-lg-8 col-lg-offset-2 text-center"></div>
 	    			</div>
