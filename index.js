@@ -22068,41 +22068,20 @@
 								_react2.default.createElement(
 									"p",
 									null,
-									"I can help you to create or develop:",
-									_react2.default.createElement(
-										"ul",
-										null,
-										_react2.default.createElement(
-											"li",
-											null,
-											"Company Profile"
-										),
-										_react2.default.createElement(
-											"li",
-											null,
-											"Blog"
-										),
-										_react2.default.createElement(
-											"li",
-											null,
-											"Mobile Applicatin"
-										),
-										_react2.default.createElement(
-											"li",
-											null,
-											"E-Commerce"
-										),
-										_react2.default.createElement(
-											"li",
-											null,
-											"Business Application"
-										),
-										_react2.default.createElement(
-											"li",
-											null,
-											"Maintenance Your Current Web"
-										)
-									)
+									"What can I do for you? ",
+									_react2.default.createElement("br", null),
+									"Company Profile ",
+									_react2.default.createElement("br", null),
+									"Blog ",
+									_react2.default.createElement("br", null),
+									"Mobile Application ",
+									_react2.default.createElement("br", null),
+									"E-Commerce ",
+									_react2.default.createElement("br", null),
+									"Business Application ",
+									_react2.default.createElement("br", null),
+									"Improving Your current website ",
+									_react2.default.createElement("br", null)
 								)
 							),
 							_react2.default.createElement("div", { className: "col-lg-8 col-lg-offset-2 text-center" })
