@@ -13,7 +13,7 @@ class Contact extends React.Component{
 	    			</div>
 	    			<div className="row">
 	    				<div className="col-lg-8 col-lg-offset-2">
-	    					<form name="sentMessage" id="contactForm" method="POST" action="../mail/contact_me.php" noValidate>
+	    					<form name="sentMessage" id="contactForm" method="POST" action="https://mariosandoz.github.io/mail/contact_me.php" noValidate>
 	    						<div className="row control-group">
 	    							<div className="form-group col-xs-12 floating-label-form-group controls">
 	    								<label>Name</label>
