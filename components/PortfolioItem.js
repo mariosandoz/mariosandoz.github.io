@@ -1,5 +1,4 @@
 import React from 'react';
-import PortfolioModal from './PortfolioModal';
 
 class PortfolioItem extends React.Component{
 	render(){
