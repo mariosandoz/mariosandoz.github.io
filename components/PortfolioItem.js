@@ -15,7 +15,6 @@ class PortfolioItem extends React.Component{
                         <img src="img/portfolio/cake.png" className="img-responsive" alt="" />
                     </a>
                 </div>
-                <PortfolioModal portModalID={this.props.portID} />
             </div>
 		)
 	}
