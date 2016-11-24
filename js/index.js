@@ -22160,7 +22160,7 @@
 								{ className: "col-lg-8 col-lg-offset-2" },
 								_react2.default.createElement(
 									"form",
-									{ name: "sentMessage", id: "contactForm", method: "POST", action: "../mail/contact_me.php", noValidate: true },
+									{ name: "sentMessage", id: "contactForm", method: "POST", action: "https://mariosandoz.github.io/mail/contact_me.php", noValidate: true },
 									_react2.default.createElement(
 										"div",
 										{ className: "row control-group" },
