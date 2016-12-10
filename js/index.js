@@ -21680,7 +21680,7 @@
 									_react2.default.createElement(
 										"span",
 										{ className: "skills" },
-										"Mobile - API - Web Developer"
+										"Web - Mobile - API Developer"
 									)
 								)
 							)
@@ -21757,7 +21757,7 @@
 									_react2.default.createElement(
 										'h2',
 										null,
-										'Portfolio'
+										'Articles'
 									),
 									_react2.default.createElement('hr', { className: 'star-primary' })
 								)
@@ -21833,7 +21833,7 @@
 	                                _react2.default.createElement("i", { className: "fa fa-search-plus fa-3x" })
 	                            )
 	                        ),
-	                        _react2.default.createElement("img", { src: "img/portfolio/cake.png", className: "img-responsive", alt: "" })
+	                        _react2.default.createElement("img", { src: "img/articles/php.png", className: "img-responsive", alt: "" })
 	                    )
 	                )
 	            );
@@ -21911,20 +21911,24 @@
 	                                    _react2.default.createElement(
 	                                        "h2",
 	                                        null,
-	                                        "Project Title"
+	                                        "PHP Defensive Programming"
 	                                    ),
 	                                    _react2.default.createElement("hr", { className: "star-primary" }),
-	                                    _react2.default.createElement("img", { src: "img/portfolio/circus.png", className: "img-responsive img-centered", alt: "" }),
+	                                    _react2.default.createElement("img", { src: "img/articles/php.png", className: "img-responsive img-centered", alt: "" }),
 	                                    _react2.default.createElement(
 	                                        "p",
 	                                        null,
-	                                        "Use this area of the page to describe your project. The icon above is part of a free icon set by ",
+	                                        "PHP Defensive is an aproach in programming with the intent to anticipate likely failure point or unexpected runtime errors."
+	                                    ),
+	                                    _react2.default.createElement(
+	                                        "p",
+	                                        null,
+	                                        "Check the basic of PHP Defensive Programming ",
 	                                        _react2.default.createElement(
 	                                            "a",
-	                                            { href: "https://sellfy.com/p/8Q9P/jV3VZ/" },
-	                                            "Flat Icons"
-	                                        ),
-	                                        ". On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!"
+	                                            { href: "https://mariosandoz.github.io/phpdefensive/#1", target: "_blank" },
+	                                            "here"
+	                                        )
 	                                    ),
 	                                    _react2.default.createElement(
 	                                        "ul",
@@ -21932,43 +21936,31 @@
 	                                        _react2.default.createElement(
 	                                            "li",
 	                                            null,
-	                                            "Client:",
+	                                            "Created by:\xA0",
 	                                            _react2.default.createElement(
 	                                                "strong",
 	                                                null,
-	                                                _react2.default.createElement(
-	                                                    "a",
-	                                                    { href: "http://startbootstrap.com" },
-	                                                    "Start Bootstrap"
-	                                                )
+	                                                "mariosandoz"
 	                                            )
 	                                        ),
 	                                        _react2.default.createElement(
 	                                            "li",
 	                                            null,
-	                                            "Date:",
+	                                            "Date:\xA0",
 	                                            _react2.default.createElement(
 	                                                "strong",
 	                                                null,
-	                                                _react2.default.createElement(
-	                                                    "a",
-	                                                    { href: "http://startbootstrap.com" },
-	                                                    "April 2014"
-	                                                )
+	                                                "December 2016"
 	                                            )
 	                                        ),
 	                                        _react2.default.createElement(
 	                                            "li",
 	                                            null,
-	                                            "Service:",
+	                                            "Tag: \xA0",
 	                                            _react2.default.createElement(
 	                                                "strong",
 	                                                null,
-	                                                _react2.default.createElement(
-	                                                    "a",
-	                                                    { href: "http://startbootstrap.com" },
-	                                                    "Web Development"
-	                                                )
+	                                                "php, programming, remarkjs"
 	                                            )
 	                                        )
 	                                    ),
@@ -22057,7 +22049,7 @@
 								_react2.default.createElement(
 									"p",
 									null,
-									"Nowadays, website profile or system is a mandatory needs to improve your business or to attract clients.",
+									"Nowadays, company profile or information system is a mandatory needs to improve your business or to attract clients.",
 									_react2.default.createElement("br", null),
 									"Whether you're a businessman looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects."
 								)
