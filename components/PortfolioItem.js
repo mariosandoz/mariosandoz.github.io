@@ -11,7 +11,7 @@ class PortfolioItem extends React.Component{
                                 <i className="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cake.png" className="img-responsive" alt="" />
+                        <img src="img/articles/php.png" className="img-responsive" alt="" />
                     </a>
                 </div>
             </div>

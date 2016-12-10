@@ -10,7 +10,7 @@ class Portfolio extends React.Component{
 		    		<div className="container">
 		    			<div className="row">
 		    				<div className="col-lg-12 text-center">
-		    					<h2>Portfolio</h2>
+		    					<h2>Articles</h2>
 		    					<hr className="star-primary" />
 		    				</div>
 		    			</div>

@@ -15,21 +15,25 @@ class PortfolioModal extends React.Component{
                         <div className="row">
                             <div className="col-lg-8 col-lg-offset-2">
                                 <div className="modal-body">
-                                    <h2>Project Title</h2>
+                                    <h2>PHP Defensive Programming</h2>
                                     <hr className="star-primary" />
-                                    <img src="img/portfolio/circus.png" className="img-responsive img-centered" alt="" />
-                                    <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                                    <img src="img/articles/php.png" className="img-responsive img-centered" alt="" />
+                                    <p>PHP Defensive is an aproach in programming with the intent to anticipate likely failure point or unexpected runtime errors.</p>
+
+                                    <p>Check the basic of PHP Defensive Programming <a href="https://mariosandoz.github.io/phpdefensive/#1" target="_blank">here</a>
+                                    </p>
                                     <ul className="list-inline item-details">
-                                        <li>Client:
-                                            <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                        <li>Created by:&nbsp; 
+                                            <strong>mariosandoz
                                             </strong>
                                         </li>
-                                        <li>Date:
-                                            <strong><a href="http://startbootstrap.com">April 2014</a>
+                                        <li>Date:&nbsp; 
+                                            <strong>
+                                            December 2016
                                             </strong>
                                         </li>
-                                        <li>Service:
-                                            <strong><a href="http://startbootstrap.com">Web Development</a>
+                                        <li>Tag: &nbsp;
+                                            <strong>php, programming, remarkjs
                                             </strong>
                                         </li>
                                     </ul>

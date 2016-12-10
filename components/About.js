@@ -14,7 +14,7 @@ class About extends React.Component{
 	    			<div className="row">
 	    				<div className="col-lg-4 col-lg-offset-2">
 	    					<p>
-	    						Nowadays, website profile or system is a mandatory needs
+	    						Nowadays, company profile or information system is a mandatory needs
 	    						to improve your business or to attract clients.
 	    						<br/>
 	    						Whether you're a businessman looking to showcase your work, 

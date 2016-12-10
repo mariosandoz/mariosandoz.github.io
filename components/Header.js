@@ -11,7 +11,7 @@ class Header extends React.Component{
 	    					<div className="intro-text">
 	    						<span className="name">Mario Sandoz</span>
 	    						<hr className="star-light" />
-	    						<span className="skills">Mobile - API - Web Developer</span>
+	    						<span className="skills">Web - Mobile - API Developer</span>
 	    					</div>
 	    				</div>
 	    			</div>
