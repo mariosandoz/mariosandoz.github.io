@@ -21586,7 +21586,7 @@
 									_react2.default.createElement(
 										"a",
 										{ href: "#portfolio" },
-										"Portfolio"
+										"Articles"
 									)
 								),
 								_react2.default.createElement(
