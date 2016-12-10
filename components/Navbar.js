@@ -16,7 +16,7 @@ class Navbar extends React.Component{
 	    						<a href="#page-top"></a>
 	    					</li>
 	    					<li className="page-scroll">
-	    						<a href="#portfolio">Portfolio</a>
+	    						<a href="#portfolio">Articles</a>
 	    					</li>
 	    					<li className="page-scroll">
 	    						<a href="#about">About</a>
