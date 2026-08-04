@@ -1,3 +1,5 @@
+# Privacy Policy — Rekuro
+
 **Terakhir diperbarui:** 4 Agustus 2026
 
 Rekuro ("aplikasi ini") dikembangkan sebagai aplikasi pelacak langganan (subscription tracker) untuk membantu pengguna mengelola dan mengingat tanggal jatuh tempo langganan mereka. Kami sangat menghargai privasi Anda. Kebijakan privasi ini menjelaskan bagaimana data Anda diperlakukan saat menggunakan Rekuro.
@@ -45,7 +47,7 @@ Kebijakan privasi ini dapat diperbarui dari waktu ke waktu, misalnya jika aplika
 
 Jika Anda memiliki pertanyaan mengenai kebijakan privasi ini, silakan hubungi kami melalui:
 
-**Email:** [socmed.universe@gmail.com]
+**Email:** [ganti-dengan-email-kamu@example.com]
 
 ---
 
