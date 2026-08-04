@@ -1,5 +1,3 @@
-# Privacy Policy — Rekuro
-
 **Terakhir diperbarui:** 4 Agustus 2026
 
 Rekuro ("aplikasi ini") dikembangkan sebagai aplikasi pelacak langganan (subscription tracker) untuk membantu pengguna mengelola dan mengingat tanggal jatuh tempo langganan mereka. Kami sangat menghargai privasi Anda. Kebijakan privasi ini menjelaskan bagaimana data Anda diperlakukan saat menggunakan Rekuro.
