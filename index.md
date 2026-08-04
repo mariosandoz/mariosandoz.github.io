@@ -1,4 +1,7 @@
-# Privacy Policy — Rekuro
+---
+layout: page
+title: "Privacy Policy — Rekuro"
+---
 
 **Terakhir diperbarui:** 4 Agustus 2026
 
@@ -47,7 +50,7 @@ Kebijakan privasi ini dapat diperbarui dari waktu ke waktu, misalnya jika aplika
 
 Jika Anda memiliki pertanyaan mengenai kebijakan privasi ini, silakan hubungi kami melalui:
 
-**Email:** [ganti-dengan-email-kamu@example.com]
+**Email:** [socmed.universe@gmail.com]
 
 ---
 
